@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Aragon",
+    "college": "Quandrix",
+    "role": "Reluctant Protagonist",
+    "bio": "Perpetually on the edge of academic disaster, Aragon juggles alchemical gains, missed exams, and suspiciously vanilla-scented 'protein' potions. Known for getting stuck in Edgemoor, celebrating his birthday in a chokehold with slugs and bats, and somehow surviving it all.",
+    "portrait": "assets/images/hero-aragon.jpg",
+    "stats": {
+      "courage": 8,
+      "chaos": 10,
+      "academics": 4
+    }
+  },
+  {
+    "name": "Katrina",
+    "college": "Quandrix",
+    "role": "Overloaded Spell Scholar",
+    "bio": "Battling spell exams, a runaway frog familiar, and a complicated romantic history, Katrina is the embodiment of 'it’s complicated.' Rumors swirl about lovers lost in the woods and exes who changed more than just majors.",
+    "portrait": "assets/images/hero-katrina.jpg",
+    "stats": {
+      "courage": 6,
+      "chaos": 5,
+      "academics": 7
+    }
+  },
+  {
+    "name": "Rowan",
+    "college": "Quandrix",
+    "role": "Seeker of Life and Death",
+    "bio": "On the verge of uncovering the truth connecting life and death, Rowan walks the thin line between research and revelation. Their studies may redefine what it means to graduate alive.",
+    "portrait": "assets/images/hero-rowan.jpg",
+    "stats": {
+      "courage": 7,
+      "chaos": 6,
+      "academics": 9
+    }
+  },
+  {
+    "name": "Percy",
+    "college": "Quandrix",
+    "role": "Schemer-in-Residence",
+    "bio": "Seen tiptoeing near the faculty lounge with a cloak of invisibility that only works on Tuesdays, Percy is suspected in everything from exam paper heists to glitter-hexed vending machines.",
+    "portrait": "assets/images/hero-percy.jpg",
+    "stats": {
+      "courage": 5,
+      "chaos": 9,
+      "academics": 6
+    }
+  },
+  {
+    "name": "Kaelin Thorne",
+    "college": "Quandrix",
+    "role": "Hydroharmonic Test Subject",
+    "bio": "Once plagued by chronic arcane fatigue, Kaelin found unexpected relief through Water Dancing. Now a quiet champion of the Hydroharmonic Effect, they’re living proof that math, magic, and motion can heal.",
+    "portrait": "assets/images/hero-kaelin.jpg",
+    "stats": {
+      "courage": 6,
+      "chaos": 4,
+      "academics": 8
+    }
+  },
+  {
+    "name": "Albus Dumbledore",
+    "college": "Quandrix (Editor)",
+    "role": "Editor-in-Chief of the Quandrix Quill",
+    "bio": "Chronicler of campus chaos, Albus turns rumors, research, and reckless student behavior into polished columns. If it happened at Strixhaven, it probably passed across his desk.",
+    "portrait": "assets/images/hero-albus.jpg",
+    "stats": {
+      "courage": 7,
+      "chaos": 5,
+      "academics": 10
+    }
+  }
+]

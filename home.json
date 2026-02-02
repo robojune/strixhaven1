@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Aragon",
+    "college": "Quandrix",
+    "role": "Chaotic Protagonist",
+    "bio": "Known for alchemical mishaps, missed exams, and suspiciously vanilla-scented potions.",
+    "stats": {
+      "courage": 7,
+      "chaos": 10,
+      "academics": 3
+    }
+  },
+  {
+    "name": "Katrina",
+    "college": "Quandrix",
+    "role": "Stressed Scholar",
+    "bio": "Battling exams, frog familiars, and questionable romantic entanglements."
+  }
+]
